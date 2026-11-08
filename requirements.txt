@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+joblib
+pefile
+watchdog
+plyer
+# Optional model integrations:
+# xgboost
+# lightgbm
